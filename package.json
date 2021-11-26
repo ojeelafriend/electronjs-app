@@ -1,0 +1,26 @@
+{
+  "name": "electronjs-app",
+  "version": "0.1.0",
+  "description": "practice with electronjs",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojeelafriend/electronjs-app.git"
+  },
+  "keywords": [
+    "electronjs",
+    "nodejs"
+  ],
+  "author": "odev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojeelafriend/electronjs-app/issues"
+  },
+  "homepage": "https://github.com/ojeelafriend/electronjs-app#readme",
+  "devDependencies": {
+    "electron": "^16.0.2"
+  }
+}
